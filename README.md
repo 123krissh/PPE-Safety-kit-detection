@@ -1,4 +1,4 @@
-Real-Time PPE Safety Kit Detection Using YOLOv8
+**Real-Time PPE Safety Kit Detection Using YOLOv8**
 
 Overview
 
